@@ -1,0 +1,6 @@
+1. The Keyboard Clicker is based off of Cookie Clicker, a game where the user continuously presses a cookie to earn more keys and upgrades.
+   Once the game starts, you will be prompted to click the space bar. The more you press the spacebar, the more keys you will earn.
+   
+2. Once you have enough keys to purchase an upgrade, you will have the option to upgrade the multiplier for how many keys you get per click.
+
+3. If at any point you wish to save your progress, you will have the option to save your progress as an access code. 
